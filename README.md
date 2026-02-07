@@ -1,0 +1,2 @@
+Dataset used: Amazon Reviews Dataset  
+Source: https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews
